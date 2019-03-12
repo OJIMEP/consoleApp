@@ -7,6 +7,7 @@ namespace consoleApp
         {
             Console.WriteLine("method2");
             Console.WriteLine("method2-2");
+            Console.WriteLine("method2-3");
         }
     }
 }
