@@ -6,6 +6,7 @@ namespace consoleApp
         public void method2()
         {
             Console.WriteLine("method2");
+            Console.WriteLine("method2-2");
         }
     }
 }
