@@ -6,7 +6,9 @@ namespace consoleApp
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            MyClass instance = new MyClass();
+            instance.method1();
+            instance.method2(); 
         }
     }
 }
