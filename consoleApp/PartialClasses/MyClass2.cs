@@ -3,7 +3,7 @@ namespace consoleApp
 {
     partial class MyClass
     {
-        public void method2()
+        public void Method2()
         {
             Console.WriteLine("method2");
             Console.WriteLine("method2-2");

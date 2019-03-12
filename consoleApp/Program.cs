@@ -7,8 +7,8 @@ namespace consoleApp
         public static void Main(string[] args)
         {
             MyClass instance = new MyClass();
-            instance.method1();
-            instance.method2(); 
+            instance.Method1();
+            instance.Method2(); 
         }
     }
 }
